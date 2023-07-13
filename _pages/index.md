@@ -10,7 +10,7 @@ permalink: /
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 
 
-  欢迎你来到 0xmiracle的博客，这是一个敞开大门的车库，充满了故事，笑声，以及对科技未来的梦想。他的旅程从最平凡的地方开始。他并非生来就拥有金钥匙，也没有任何特权，他只是一个满怀好奇、热爱科技的普通人。<span style="font-weight: bold">[[Content Index]]</span> Let's go !
+  欢迎你来到 0xmiracle的博客，这是一个敞开大门的车库，充满了故事，笑声，以及对科技未来的梦想。他的旅程从最平凡的地方开始。他并非生来就拥有金钥匙，也没有任何特权，他只是一个满怀好奇、热爱科技的普通人。<span style="font-weight: bold">[[Content Index]]</span> 你会发现，每一个平凡的人都有可能改变世界。只要你热爱科技，只要你愿意学习，只要你敢于冒险
   Take a look at <span style="font-weight: bold">[[Content Index]]</span> Let's go !
 
   
