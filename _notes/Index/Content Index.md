@@ -6,6 +6,9 @@ title: Content Index
   <span style="font-weight: bold">[[A]]</span>notes from a book reading <br>
   <span style="font-weight: bold">[[B]]</span>Research on the job<br>
   <span style="font-weight: bold">[[C]]</span>A better version of myself<br>
-  <span style="font-weight: bold">[[L]]</span>Men and women<br>
+  <span style="font-weight: bold">[[D]]</span>Men and women<br>
+  <span style="font-weight: bold">[[D]]</span>Men and women<br><span style="font-weight: bold">[[D]]</span>Men and women<br><span style="font-weight: bold">[[D]]</span>Men and women<br><span style="font-weight: bold">[[D]]</span>Men and women<br>
+  
+
   
 </p>
