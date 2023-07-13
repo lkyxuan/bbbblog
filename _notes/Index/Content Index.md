@@ -6,7 +6,6 @@ title: Content Index
   <span style="font-weight: bold"> [[A]]</span>  A better version of myself<br>
   <span style="font-weight: bold"> [[B]]</span>  Notes from a book reading<br>
   <span style="font-weight: bold"> [[C]]</span>  Research on the CRYPTO<br>
-  <span style="font-weight: bold"> [[D]]</span>  Men and women<br>
   <span style="font-weight: bold"> [[E]]</span>  English Learning<br>
   <span style="font-weight: bold"> [[I]]</span>  Men and women<br>
   
