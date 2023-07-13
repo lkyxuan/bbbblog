@@ -6,4 +6,5 @@ permalink: /about
 
 *This is an about page.*
 
+https://twitter.com/0xMiracle
 Feel free to tell the world about what you love! 😍
