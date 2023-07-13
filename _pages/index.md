@@ -13,7 +13,7 @@ permalink: /
  A garage with its doors wide open, filled with stories, laughter, and dreams of a technological future. He was not born with a silver spoon, nor any privileges.  Just an ordinary individual, filled with curiosity and a passion for technology.
 </p>
 <p style="padding: 3em 1em; background: #add8e6; border-radius: 4px;">
-<span style="font-weight: bold">[[|Let's goContent Index]]</span> 
+<span style="font-weight: bold">[[Content Index|Let's go]]</span> 
 </p>
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 You'll realize that each ordinary individual has the capacity to alter the world. Provided that you harbor a love for technology, are open to learning, and dare to embark on risks, everyone can be the hero of their own story.
