@@ -7,10 +7,4 @@ title: Content Index
   <span style="font-weight: bold">[[Political Research]]</span><br>
   <span style="font-weight: bold">[[Content Index]]</span><br>
   <span style="font-weight: bold">[[Content Index]]</span><br>
-  <span style="font-weight: bold">[[Content Index]]</span><br>
-  <span style="font-weight: bold">[[Content Index]]</span><br>
-  <span style="font-weight: bold">[[Content Index]]</span><br>
-  <span style="font-weight: bold">[[Content Index]]</span><br>
-  <span style="font-weight: bold">[[Content Index]]</span><br>
-  <span style="font-weight: bold">[[Content Index]]</span><br>
 </p>
