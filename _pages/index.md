@@ -10,8 +10,8 @@ permalink: /
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 
 
-  Welcome to 0xmiracle's blog, a garage with its doors wide open, filled with stories, laughter, and dreams of a technological future. His journey began in the most ordinary of places. He wasn't born with a golden key nor had any privileges. He's just an average person brimming with curiosity and a love for technology.<span style="font-weight: bold">[[Content Index]]</span> 你会发现，每一个平凡的人都有可能改变世界。只要你热爱科技，只要你愿意学习，只要你敢于冒险
-  Take a look at <span style="font-weight: bold">[[Content Index]]</span> Let's go !
+  Welcome to 0xmiracle's blog, a garage with its doors wide open, filled with stories, laughter, and dreams of a technological future. His journey began in the most ordinary of places. He was not born with a silver spoon, nor any privileges. He is just an ordinary individual, filled with curiosity and a passion for technology."<span style="font-weight: bold">[[Content Index]]</span> 你会发现，每一个平凡的人都有可能改变世界。只要你热爱科技，只要你愿意学习，只要你敢于冒险,每个人都是主角.
+ <span style="font-weight: bold">[[Content Index]]</span> Let's go !
 
   
 </p>
