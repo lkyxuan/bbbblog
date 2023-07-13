@@ -39,7 +39,8 @@ Note: This behavior is disabled by default for privacy reasons. See "Site config
 You may include a tweet URL on its own line (like below), and it would be replaced with an official Twitter embed if the site configuration demands it.
 
 https://twitter.com/jack/status/20
-[(1) 0xmiracle.eth 📍CRYPTO 🇲🇪 🦇🔊 (@0xMiracle) / Twitter](https://twitter.com/0xmiracle/)
+https://twitter.com/0xmiracle/
+maximevaillancourt
 ### Media embedding
 
 You may embed media files within a note using HTML5 media tags. Here's an example for an audio file:
