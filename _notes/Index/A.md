@@ -1,3 +1,3 @@
 ---
-title: A
+title: A better version of myself
 ---
