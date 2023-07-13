@@ -12,7 +12,7 @@ permalink: /
 
  A garage with its doors wide open, filled with stories, laughter, and dreams of a technological future. He was not born with a silver spoon, nor any privileges.  Just an ordinary individual, filled with curiosity and a passion for technology.
 </p>
-<p style="padding: 3em 1em; background: #add8e6; border-radius: 4px;">
+<p style="padding: 1em 1em; background: #000000; border-radius: 4px;">
 <span style="font-weight: bold">[[Content Index|Let's fucking go]]</span> 
 </p>
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
