@@ -1,3 +1,3 @@
 ---
-title: Content Index
+title: Research on CRYPTO
 ---
