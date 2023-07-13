@@ -10,7 +10,7 @@ permalink: /
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 
 
- A garage with its doors wide open, filled with stories, laughter, and dreams of a technological future. His journey began in the most ordinary of places. He was not born with a silver spoon, nor any privileges. He is just an ordinary individual, filled with curiosity and a passion for technology."
+ A garage with its doors wide open, filled with stories, laughter, and dreams of a technological future. His journey began in the most ordinary of places. He was not born with a silver spoon, nor any privileges. He is just an ordinary individual, filled with curiosity and a passion for technology.
 </p>
 <p style="padding: 3em 1em; background: #add8e6; border-radius: 4px;">
 <span style="font-weight: bold">[[Content Index]]</span> 
