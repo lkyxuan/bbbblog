@@ -7,5 +7,5 @@ title: Content Index
   <span style="font-weight: bold">[[POLITICS]]</span><br>
   <span style="font-weight: bold">[[ECONOMIC]]</span><br>
   <span style="font-weight: bold">[[CRYPTO]]</span><br>
-  <span style="font-weight: bold">[[]]</span><br>
+  <span style="font-weight: bold">[[RELIGIONS]]</span><br>
 </p>
