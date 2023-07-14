@@ -2,4 +2,7 @@
 title: Milady
 ---
 
-![[Pasted image 20230714140847.png]]
+#NFT
+
+
+![Pasted image milayd.png](https://vip2.loli.io/2023/07/14/FsVErDWhvpTRUIg.png)
