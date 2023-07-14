@@ -1,4 +1,5 @@
 ---
+title: This is a feature, not a bug
 ---
 This is a feature, not a bug.
 
