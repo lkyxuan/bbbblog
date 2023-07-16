@@ -83,7 +83,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-last-modified-at!
-  jekyll-tagging (1.1.0)
   nokogiri
   webrick (~> 1.8)
 
