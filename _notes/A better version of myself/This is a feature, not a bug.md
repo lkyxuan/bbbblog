@@ -1,5 +1,7 @@
 ---
 title: This is a feature, not a bug
+tags:
+  - crypto
 ---
 This is a feature, not a bug.
 

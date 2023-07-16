@@ -16,3 +16,4 @@ module Recents
     end
   end
 end
+

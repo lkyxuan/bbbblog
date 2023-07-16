@@ -24,6 +24,7 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll/tags
 
 sass:
   sass_dir:          _sass
@@ -43,3 +44,4 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
